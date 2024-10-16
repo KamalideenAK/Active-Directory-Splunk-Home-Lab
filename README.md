@@ -1,4 +1,4 @@
-# Active-Directory-Splunk-Home-Lab
+# Active-Directory-Splunk-Home-Lab 
 
 Introduction
 This guide will walk you through the process of building a home lab using Active Directory (AD) and Splunk Security Information and Event Management (SIEM). By the end of this tutorial, you will have a functional lab environment where you can practice threat detection, incident response, and security monitoring.
